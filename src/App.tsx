@@ -1,5 +1,5 @@
 import { NavLink,BrowserRouter, Routes, Route, Link } from "react-router-dom";
-import logo from "../public/logo.png";
+import logo from "./assets/logo.png";
 import Homepage from "./pages/Homepage";
 import Create from "./pages/Create";
 import Profile from "./pages/Profile";
